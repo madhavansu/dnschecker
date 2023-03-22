@@ -1,0 +1,74 @@
+[
+  {
+    "id": "269",
+    "ips": "142.250.192.78",
+    "ips_with_link": "142.250.192.78<a href='https://dnschecker.org/ip-location.php?ip=142.250.192.78' target='_blank' class='ml-1'><i class='icon icon-external-link icon-lg-3 icon-secondary'></i></a>",
+    "latitude": "26.624659730659513",
+    "longitude": "4.938729750793449",
+    "provider": "Kappa Internet Services Private Limited",
+    "location": "Kota, India",
+    "country": "in",
+    "status": "active",
+    "_result": "id: 55325\nopcode: QUERY\nstatus: NOERROR\nflags: QR RD RA\n;; QUESTION SECTION:\n;google.com.\t\tIN A\n<strong>;; ANSWER SECTION:\ngoogle.com.\t\t11 IN A\t142.250.192.78</strong>\n"
+  },
+  {
+    "id": "269",
+    "ips": "142.250.192.78",
+    "ips_with_link": "142.250.192.78<a href='https://dnschecker.org/ip-location.php?ip=142.250.192.78' target='_blank' class='ml-1'><i class='icon icon-external-link icon-lg-3 icon-secondary'></i></a>",
+    "latitude": "46.2230084847011",
+    "longitude": "103.37622975079344",
+    "provider": "Kappa Internet Services Private Limited",
+    "location": "Kota, India",
+    "country": "in",
+    "status": "inactive",
+    "_result": "id: 55325\nopcode: QUERY\nstatus: NOERROR\nflags: QR RD RA\n;; QUESTION SECTION:\n;google.com.\t\tIN A\n<strong>;; ANSWER SECTION:\ngoogle.com.\t\t11 IN A\t142.250.192.78</strong>\n"
+  },
+  {
+    "id": "269",
+    "ips": "142.250.192.78",
+    "ips_with_link": "142.250.192.78<a href='https://dnschecker.org/ip-location.php?ip=142.250.192.78' target='_blank' class='ml-1'><i class='icon icon-external-link icon-lg-3 icon-secondary'></i></a>",
+    "latitude": "40.611270294355606",
+    "longitude": "-96.31127024920659",
+    "provider": "Kappa Internet Services Private Limited",
+    "location": "Kota, India",
+    "country": "in",
+    "status": "active",
+    "_result": "id: 55325\nopcode: QUERY\nstatus: NOERROR\nflags: QR RD RA\n;; QUESTION SECTION:\n;google.com.\t\tIN A\n<strong>;; ANSWER SECTION:\ngoogle.com.\t\t11 IN A\t142.250.192.78</strong>\n"
+  },
+  {
+    "id": "269",
+    "ips": "142.250.192.78",
+    "ips_with_link": "142.250.192.78<a href='https://dnschecker.org/ip-location.php?ip=142.250.192.78' target='_blank' class='ml-1'><i class='icon icon-external-link icon-lg-3 icon-secondary'></i></a>",
+    "latitude": "18.18424984582709",
+    "longitude": "75.25122975079344",
+    "provider": "Kappa Internet Services Private Limited",
+    "location": "Kota, India",
+    "country": "in",
+    "status": "inactive",
+    "_result": "id: 55325\nopcode: QUERY\nstatus: NOERROR\nflags: QR RD RA\n;; QUESTION SECTION:\n;google.com.\t\tIN A\n<strong>;; ANSWER SECTION:\ngoogle.com.\t\t11 IN A\t142.250.192.78</strong>\n"
+  },
+  {
+    "id": "269",
+    "ips": "142.250.192.78",
+    "ips_with_link": "142.250.192.78<a href='https://dnschecker.org/ip-location.php?ip=142.250.192.78' target='_blank' class='ml-1'><i class='icon icon-external-link icon-lg-3 icon-secondary'></i></a>",
+    "latitude": "-23.04254908330661",
+    "longitude": "137.12622975079344",
+    "provider": "Kappa Internet Services Private Limited",
+    "location": "Kota, India",
+    "country": "in",
+    "status": "active",
+    "_result": "id: 55325\nopcode: QUERY\nstatus: NOERROR\nflags: QR RD RA\n;; QUESTION SECTION:\n;google.com.\t\tIN A\n<strong>;; ANSWER SECTION:\ngoogle.com.\t\t11 IN A\t142.250.192.78</strong>\n"
+  },
+  {
+    "id": "269",
+    "ips": "142.250.192.78",
+    "ips_with_link": "142.250.192.78<a href='https://dnschecker.org/ip-location.php?ip=142.250.192.78' target='_blank' class='ml-1'><i class='icon icon-external-link icon-lg-3 icon-secondary'></i></a>",
+    "latitude": "-31.16883279932192",
+    "longitude": "-61.85814524920655",
+    "provider": "Kappa Internet Services Private Limited",
+    "location": "Kota, India",
+    "country": "in",
+    "status": "active",
+    "_result": "id: 55325\nopcode: QUERY\nstatus: NOERROR\nflags: QR RD RA\n;; QUESTION SECTION:\n;google.com.\t\tIN A\n<strong>;; ANSWER SECTION:\ngoogle.com.\t\t11 IN A\t142.250.192.78</strong>\n"
+  }
+]
