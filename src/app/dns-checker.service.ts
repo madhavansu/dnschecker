@@ -26,7 +26,7 @@ export class DnsCheckerService {
   }
 
   loadMapsApi() {
-    return this.httpClient.jsonp('https://maps.googleapis.com/maps/api/js?key=AIzaSyDMk-mHf04Q90QyEiBUaC2O-4yC4wld1TY', 'callback').pipe(
+    return this.httpClient.jsonp('https://maps.googleapis.com/maps/api/js?key=yourapikey', 'callback').pipe(
           map(() => true),
           catchError(() => of(false)));
   }
