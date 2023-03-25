@@ -1,0 +1,89 @@
+mat-list-item {
+    border-bottom: 1px solid;
+    border-color: darkblue;
+}
+
+mat-list-item:hover {
+    // background-color: rgba(0, 139, 139, 0.7);
+    background-color: aliceblue;
+}
+
+// Form area
+.parent {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.parent>* {
+    flex: 1;
+    margin: 0px 10px;
+}
+
+.error {
+    color: red;
+    padding-left: 15px;
+}
+
+// Content parts
+* {
+    box-sizing: border-box;
+}
+
+/* Create two unequal columns that floats next to each other */
+.column {
+    float: left;
+    padding: 10px;
+    margin: 5px;
+    height: auto;
+    border: 2px solid aliceblue;
+    border-radius: 5px;
+    background-color: #F5F5F5
+}
+
+.left {
+    width: 35%;
+    margin-left: 10px;
+}
+
+.right {
+    width: 63%;
+}
+
+/* Clear floats after the columns */
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+
+// List area
+.list-title mat-icon {
+    padding-right: 10px;
+    vertical-align: middle;
+}
+
+.list-content span:first {
+    float: left;
+}
+
+.list-content span:last-child {
+    float: right;
+}
+
+.text-ip {
+    color: darkblue;
+    padding-right: 10px;
+}
+
+.status-icon-true {
+    color: green;
+}
+
+.status-icon-false {
+    color: red;
+}
